@@ -1,0 +1,15 @@
+.tarjeta{
+    background-color: #fff8;
+    padding: 30px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+.clima_titulo{
+    font-size: 2.5rem;
+}
+.clima_ciudad{
+    font-size: 1.2rem;
+}
